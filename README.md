@@ -16,7 +16,8 @@ MENTOR : NEELA SANTOSH
 
 Built using HTML, CSS, and JavaScript, this project demonstrates API integration, asynchronous data fetching, and dynamic UI updates.
 
-🔧 Tech Stack
+🔧 Tech Stack :
+
 HTML
 CSS
 JavaScript
