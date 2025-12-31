@@ -25,3 +25,7 @@ CSS
 JavaScript
 
 Public Weather API
+
+Output:
+
+<img width="1917" height="1079" alt="Image" src="https://github.com/user-attachments/assets/bc734444-9f2d-4783-add7-0c65eea9762e" />
