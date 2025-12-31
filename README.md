@@ -19,6 +19,9 @@ Built using HTML, CSS, and JavaScript, this project demonstrates API integration
 🔧 Tech Stack :
 
 HTML
+
 CSS
+
 JavaScript
+
 Public Weather API
